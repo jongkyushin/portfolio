@@ -5535,7 +5535,7 @@ span.countryName.flag-icon[data-tooltip]:hover::before {
 }
 
 .profilePic {
-  background: url('../img/profile.JPG') no-repeat center; background-size: cover;
+  background: url('../img/profile.jpg') no-repeat center; background-size: cover;
   width: 300px;
   height: 300px;
   
